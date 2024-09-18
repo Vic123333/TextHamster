@@ -13,6 +13,9 @@ TextHamster is a Java-based text-based game where players interact with hamsters
 ## Requirements
 
 - **Java**: This project is built using Java. Ensure you have JDK 8 or higher installed on your machine.
+
+## Screenshot
+![Hamster](./src/hamster.PNG)
   
 ## How to Run
 
